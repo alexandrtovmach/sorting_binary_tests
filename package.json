@@ -1,0 +1,22 @@
+{
+  "name": "sorting_binary_tests",
+  "version": "0.0.1",
+  "description": "1. `git clone git@github.com:alexandrtovmach/sorting_binary_tests.git` 2. `cd sorting_binary_tests` 3. `npm install` 4. Set up the **config.js** 5. `npm start`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexandrtovmach/sorting_binary_tests.git"
+  },
+  "author": "Alexandr Tovmach <alexandrtovmach@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrtovmach/sorting_binary_tests/issues"
+  },
+  "homepage": "https://github.com/alexandrtovmach/sorting_binary_tests#readme",
+  "dependencies": {
+    "google-spreadsheet-to-json": "^1.0.0"
+  }
+}
